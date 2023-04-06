@@ -12,7 +12,7 @@
       "behance": "https://behance.com",
       "github": "https://github.com/mderdun",
       "medium": "https://konstantinmuenster.medium.com",
-      "linkedin": "https://www.linkedin.com/in/mderdun/",
+      "linkedin": "https://www.linkedin.com/mderdun/",
       "mail": "mailto:miki@mderdun.com"
     }
   },
@@ -31,8 +31,7 @@
         "url": "/resume.pdf"
       },
       "footer": [
-        { "label": "Privacy", "url": "/privacy" },
-        { "label": "Imprint", "url": "/imprint" }
+        { "text": "copyleft"}
       ]
     },
     "featureToggles": {
