@@ -3,7 +3,7 @@ imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
 imageAlt: "About Gatsby Theme Portfolio Minimal"
 ---
 
-I am a 20-year-old student from London, UK, currently studying English Literature at <a> Durham University </a>. 
+I am a 20-year-old student from <u>London, UK</u>, currently studying English Literature at <u> Durham University</u>. 
 
 I'm interested in the digital humanities, web development, machine learning, and data science. I'm also a keen musician and enjoys travelling.
 
