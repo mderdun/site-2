@@ -14,10 +14,7 @@
     "highlight": "everything you might want to know about me",
     "suffix": "."
   },
-  "description": {
-    "prefix": "Currently studying BA(Hons) English Literature at Durham University",
-    "highlight": "BA(Hons) English Literature at Durham University",
-    "suffix": "."},
+  "description":"Currently studying BA(Hons) English Literature at Durham University.",
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],
     "showIcons": true
