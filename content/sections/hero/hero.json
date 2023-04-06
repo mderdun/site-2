@@ -1,5 +1,5 @@
 {
-  "intro": "Hej",
+  "intro": "hey",
   "heroPhoto": {
     "src": "../../images/lego-dummy.png",
     "alt": "My Photo"
@@ -8,15 +8,18 @@
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "i'm miki derdun",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
+    "prefix": "this site is home to ",
+    "highlight": "everything you might want to know about me",
     "suffix": "."
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": {
+    "prefix": "Currently studying BA(Hons) English Literature at Durham University",
+    "highlight": "BA(Hons) English Literature at Durham University",
+    "suffix": "."},
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],
-    "showIcons": false
+    "showIcons": true
   }
 }

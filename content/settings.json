@@ -1,27 +1,27 @@
 {
   "siteMetadata": {
     "language": "en",
-    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Gatsby Starter for Portfolio Minimal",
-    "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
-    "author": "Konstantin Münster",
+    "siteUrl": "https://mderdun.com/",
+    "title": "miki derdun",
+    "titleTemplate": "%s · miki derdun",
+    "description": "miki derdun's personal website.",
+    "author": "Miki Derdun",
     "avatar": "../content/images/gatsby.png",
     "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
     "social": {
       "behance": "https://behance.com",
-      "github": "https://github.com/konstantinmuenster",
+      "github": "https://github.com/mderdun",
       "medium": "https://konstantinmuenster.medium.com",
-      "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
-      "mail": "mailto:mail@konstantin.digital"
+      "linkedin": "https://www.linkedin.com/in/mderdun/",
+      "mail": "mailto:miki@mderdun.com"
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": { "text": "miki derdun" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
-        { "label": "Blog", "url": "/blog" },
+        { "label": "Projects", "url": "https://projects.mderdun.com" },
         { "label": "Features", "url": "/#features" },
         { "label": "Github", "url": "/#github" }
       ],
